@@ -34,7 +34,7 @@
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
-##<b> Q. What are the important features of Java 8 release?</b>
+## Q. What are the important features of Java 8 release?
 <article class="ibpage-article">
             <p>Here are the newly added features of Java 8:</p><figure class="table"><table>
 <thead><tr>
@@ -77,7 +77,7 @@
 </tbody>
 </table></figure>
           </article>
-## <b>Q. Can you declare an interface method static?</b>
+## Q.Can you declare an interface method static ?
 
 Java 8 interface changes include static methods and default methods in interfaces. Prior to Java 8, we could have only method declarations in the interfaces. But from Java 8, we can have default methods and static methods in the interfaces.
 
