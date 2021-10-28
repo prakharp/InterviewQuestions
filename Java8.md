@@ -34,7 +34,7 @@
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
-## Q. What are the important features of Java 8 release?
+## Q. What are the important features of Java 8 release? ##
 <article class="ibpage-article">
             <p>Here are the newly added features of Java 8:</p><figure class="table"><table>
 <thead><tr>
