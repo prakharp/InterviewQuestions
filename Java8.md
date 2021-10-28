@@ -1,6 +1,5 @@
 # Java 8 Interview Questions and Answers
 
-
 * What are the important features of Java 8 release?
 * Interface methods by default;
 * Lambda expressions;
