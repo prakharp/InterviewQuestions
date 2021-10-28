@@ -1,7 +1,7 @@
 # Java 8 Interview Questions and Answers
 
-## Q. What are the important features of Java 8 release?
 
+* What are the important features of Java 8 release?
 * Interface methods by default;
 * Lambda expressions;
 * Functional interfaces;
@@ -35,6 +35,7 @@
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+## Q. What are the important features of Java 8 release?
 <article class="ibpage-article">
             <p>Here are the newly added features of Java 8:</p><figure class="table"><table>
 <thead><tr>
