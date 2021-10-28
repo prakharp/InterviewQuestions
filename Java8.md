@@ -35,7 +35,48 @@
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
-
+<article class="ibpage-article">
+            <p>Here are the newly added features of Java 8:</p><figure class="table"><table>
+<thead><tr>
+<th>Feature Name</th>
+<th>Description</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Lambda expression</td>
+<td>A function that can be shared or referred to as an object.</td>
+</tr>
+<tr>
+<td>Functional Interfaces</td>
+<td>Single abstract method interface.</td>
+</tr>
+<tr>
+<td>Method References</td>
+<td>Uses function as a parameter to invoke a method.</td>
+</tr>
+<tr>
+<td>Default method</td>
+<td>It provides an implementation of methods within interfaces enabling 'Interface evolution' facilities.</td>
+</tr>
+<tr>
+<td>Stream API</td>
+<td>Abstract layer that provides pipeline processing of the data.</td>
+</tr>
+<tr>
+<td>Date Time API</td>
+<td>New improved joda-time inspired APIs to overcome the drawbacks in previous versions</td>
+</tr>
+<tr>
+<td>Optional</td>
+<td>Wrapper class to check the null values and helps in further processing based on the value.</td>
+</tr>
+<tr>
+<td>Nashorn, JavaScript Engine</td>
+<td>An improvised version of JavaScript Engine that enables JavaScript executions in Java, to replace Rhino.</td>
+</tr>
+</tbody>
+</table></figure>
+          </article>
 ## Q. Can you declare an interface method static?
 
 Java 8 interface changes include static methods and default methods in interfaces. Prior to Java 8, we could have only method declarations in the interfaces. But from Java 8, we can have default methods and static methods in the interfaces.
