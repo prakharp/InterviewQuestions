@@ -77,7 +77,7 @@
 </tbody>
 </table></figure>
           </article>
-## Q. Can you declare an interface method static?
+## <b>Q. Can you declare an interface method static?</b>
 
 Java 8 interface changes include static methods and default methods in interfaces. Prior to Java 8, we could have only method declarations in the interfaces. But from Java 8, we can have default methods and static methods in the interfaces.
 
