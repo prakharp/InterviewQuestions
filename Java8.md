@@ -247,6 +247,7 @@ An interface can include as many `default` methods as you like while remaining f
     <b><a href="#">↥ back to top</a></b>
 </div>
 ## Q. Is it possible to define our own Functional Interface? What is @FunctionalInterface? What are the rules to define a Functional Interface?
+
 Yes, it is possible to define our own Functional Interfaces. We use Java SE 
 8’s @FunctionalInterface annotation to mark an interface as Functional Interface. We need 
 to follow these rules to define a Functional Interface:
