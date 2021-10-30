@@ -246,7 +246,25 @@ An interface can include as many `default` methods as you like while remaining f
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
-
+## Q. Is it possible to define our own Functional Interface? What is @FunctionalInterface? What are the rules to define a Functional Interface?
+Yes, it is possible to define our own Functional Interfaces. We use Java SE 
+8’s @FunctionalInterface annotation to mark an interface as Functional Interface. We need 
+to follow these rules to define a Functional Interface:
+•Define an interface with one and only one abstract method.
+•We cannot define more than one abstract method.
+•Use @FunctionalInterface annotation in the interface definition.
+•We can define any number of other methods like Default methods, Static methods.
+•If we override java.lang.Object class’s method as an abstract method, which does 
+not count as an abstract method.
+Below example illustrate the defining our own Functional Interface:
+Let's create Sayable interface annotated with @FunctionalInterface annotation.
+''' java
+@FunctionalInterface 
+interface Sayable{ 
+ void say(String msg); // abstract method 
+} 
+'''
+Let's demonstrate a custom functional interface via the main() method
 ## Q. What is StringJoiner?
 
 The class is StringJoinerused to create a sequence of strings separated by a separator with the ability to append a prefix and suffix to the resulting string:
