@@ -130,6 +130,21 @@ Web Application Convenience
 -   Easily overridden
 -   Default MessageSource for I18N
 
+### 15.What is actuator in spring boot?
+An actuator is one of the best parts of spring boot which consists of production-ready features to help you monitor and manage your application. 
+
+With the help of an actuator, you can monitor what is happening inside the running application.
+Actuator dependency figures out the metrics and makes them available as a new endpoint in your application and retrieves all required information from the web. You can identify beans, the health status of your application, CPU usage, and many more with the actuator.
+
+### 16.What is JPA in spring boot?
+JPA is basically Java Persistence API. It’s a specification that lets you do ORM when you are connecting to a relational database which is Object-Relational Mapping. 
+
+So, when you need to connect from your java application to relational database, you need to be able to use something like JDBC and run SQL queries and then you get the results and convert them into Object instances. 
+
+ORM lets you map your entity classes in your SQL tables so that when you connect to the database , you don’t need to do query yourself, it’s the framework that handles it for you.
+
+And JPA is a way to use ORM, it’s an API which lets you configure your entity classes and give it to a framework so that the framework does the rest.
+
 ### 15. Spring Boot supports both Java properties and YML files. Would you recognize and understand them if you saw them?
 
     spring boot application java property file name is application.properties
