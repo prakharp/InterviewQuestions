@@ -150,6 +150,9 @@ And JPA is a way to use ORM, it’s an API which lets you configure your entity 
     spring boot application java property file name is application.properties
     spring boot application YML file name is application.yml
 
+## 16. @Controller vs RestController 
+The @Controller is a common annotation which is used to mark a class as Spring MVC Controller while the @RestController is a special controller used in RESTFul web services and the equivalent of @Controller + @ResponseBody .29-Aug-2017
+
 ## Spring Framework Annotations
 
 |Sl.No| Annotation    | Description  |
